@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PluginInterface",
+        "repositoryURL": "https://github.com/Lopdo/SwiftPlugins-PluginInterface.git",
+        "state": {
+          "branch": null,
+          "revision": "a06e392a50c8a739fac296f426a1cd7d38863485",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
